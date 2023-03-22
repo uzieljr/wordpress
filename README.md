@@ -1,7 +1,7 @@
 # wordpress
 #### Stack wordpress for argo application with helm
 
-> Stacke:
+> Stack:
 >  - mysql-helm
 >  - wordpress-helm
 >  - adminer-helm
